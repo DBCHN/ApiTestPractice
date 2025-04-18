@@ -1,0 +1,12 @@
+#mobile_params:
+#  # shouji,appkey
+#  - [13456755448,0c818521d38759e1]
+##  - ["13456755400","0c818521d38759e1"]
+mobile_params:
+# shouji,appkey
+  - - 13456755448
+    - 0c818521d38759e1
+#mobile_params:
+## shouji,appkey
+#  - - shouji: 13456755448
+#    - appkey: 0c818521d38759e1
